@@ -77,4 +77,10 @@ module.exports = [
     infoLink: 'https://fintechstudios.com',
     pinned: true,
   },
+  {
+    caption: 'Offcn',
+    image: '/img/users/offcn.png',
+    infoLink: 'https://www.offcn.com',
+    pinned: true,
+  },
 ];
